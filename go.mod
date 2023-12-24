@@ -1,4 +1,4 @@
-module go-logger
+module github.com/leokwsw/go-logger
 
 go 1.21
 
